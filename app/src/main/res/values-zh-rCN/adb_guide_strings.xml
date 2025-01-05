@@ -50,5 +50,6 @@
     <string name="adb_linux_debian">Debian/Ubuntu</string>
     <string name="adb_linux_rhel">RHEL/CentOS</string>
     <string name="adb_linux_other">Linux (其他)</string>
-    <string name="adb_local">Android (此设备)</string>
+    <string name="adb_local">Android (此设备)
+Meizu16x Android 10</string>
 </resources>
