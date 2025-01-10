@@ -390,5 +390,5 @@
     <string name="back_up_changed_settings_desc"></string>
     <string name="restore_settings">Restore Settings</string>
     <string name="restore_settings_desc">Read from a backup file and attempt to write the values in the file to the secure settings.</string>
-    <string name="go_back">Go Back</string>
+    <string name="go_back">返回</string>
 </resources>
